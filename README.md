@@ -1,3 +1,4 @@
 # COCO
 
-![Certificate_COCO](https://user-images.githubusercontent.com/81981737/155683732-2d19e4c1-5320-4b78-b66b-7e1cabf2a4ab.jpg)
+
+![coco](https://user-images.githubusercontent.com/121312707/229457748-3b19d036-0ca1-4065-a164-933f578df4c8.png)
